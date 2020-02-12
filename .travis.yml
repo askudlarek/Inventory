@@ -1,4 +1,4 @@
 language: cpp
 os: linux
 script:
-	- g++ main.cpp Inventory.cpp Inventory.h
+    - g++ -std=c++11 -Wfatal-errors *.cpp

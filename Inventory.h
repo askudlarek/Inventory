@@ -5,6 +5,10 @@
 using std::string;
 using std::ostream;
 
+/* Class: Inventory 
+ * Description: To hold the inventory system for the store including
+ * names, prices and amount in stock
+ */
 class Inventory
 {
   private:
